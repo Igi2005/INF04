@@ -1,0 +1,7 @@
+C:\Users\walr\Desktop\c# all\pesel_konsola\pesel\pesel\obj\Debug\pesel.csproj.AssemblyReference.cache
+C:\Users\walr\Desktop\c# all\pesel_konsola\pesel\pesel\obj\Debug\pesel.csproj.CoreCompileInputs.cache
+C:\Users\walr\Desktop\c# all\pesel_konsola\pesel\pesel\bin\Debug\pesel.exe.config
+C:\Users\walr\Desktop\c# all\pesel_konsola\pesel\pesel\bin\Debug\pesel.exe
+C:\Users\walr\Desktop\c# all\pesel_konsola\pesel\pesel\bin\Debug\pesel.pdb
+C:\Users\walr\Desktop\c# all\pesel_konsola\pesel\pesel\obj\Debug\pesel.exe
+C:\Users\walr\Desktop\c# all\pesel_konsola\pesel\pesel\obj\Debug\pesel.pdb
