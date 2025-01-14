@@ -1,0 +1,7 @@
+C:\Users\walr\Desktop\inf04\2023-NWD\nwd\nwd\bin\Debug\nwd.exe.config
+C:\Users\walr\Desktop\inf04\2023-NWD\nwd\nwd\bin\Debug\nwd.exe
+C:\Users\walr\Desktop\inf04\2023-NWD\nwd\nwd\bin\Debug\nwd.pdb
+C:\Users\walr\Desktop\inf04\2023-NWD\nwd\nwd\obj\Debug\nwd.csproj.AssemblyReference.cache
+C:\Users\walr\Desktop\inf04\2023-NWD\nwd\nwd\obj\Debug\nwd.csproj.CoreCompileInputs.cache
+C:\Users\walr\Desktop\inf04\2023-NWD\nwd\nwd\obj\Debug\nwd.exe
+C:\Users\walr\Desktop\inf04\2023-NWD\nwd\nwd\obj\Debug\nwd.pdb

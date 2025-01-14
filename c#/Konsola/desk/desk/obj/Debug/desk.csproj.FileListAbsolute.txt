@@ -1,0 +1,7 @@
+C:\Users\walr\Desktop\inf04\gaderypoluki\desk\desk\bin\Debug\desk.exe.config
+C:\Users\walr\Desktop\inf04\gaderypoluki\desk\desk\bin\Debug\desk.exe
+C:\Users\walr\Desktop\inf04\gaderypoluki\desk\desk\bin\Debug\desk.pdb
+C:\Users\walr\Desktop\inf04\gaderypoluki\desk\desk\obj\Debug\desk.csproj.AssemblyReference.cache
+C:\Users\walr\Desktop\inf04\gaderypoluki\desk\desk\obj\Debug\desk.csproj.CoreCompileInputs.cache
+C:\Users\walr\Desktop\inf04\gaderypoluki\desk\desk\obj\Debug\desk.exe
+C:\Users\walr\Desktop\inf04\gaderypoluki\desk\desk\obj\Debug\desk.pdb

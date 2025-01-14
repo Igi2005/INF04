@@ -1,0 +1,7 @@
+C:\Users\walr\Desktop\inf04\string\string\string\bin\Debug\@string.exe.config
+C:\Users\walr\Desktop\inf04\string\string\string\bin\Debug\@string.exe
+C:\Users\walr\Desktop\inf04\string\string\string\bin\Debug\@string.pdb
+C:\Users\walr\Desktop\inf04\string\string\string\obj\Debug\string.csproj.AssemblyReference.cache
+C:\Users\walr\Desktop\inf04\string\string\string\obj\Debug\string.csproj.CoreCompileInputs.cache
+C:\Users\walr\Desktop\inf04\string\string\string\obj\Debug\@string.exe
+C:\Users\walr\Desktop\inf04\string\string\string\obj\Debug\@string.pdb

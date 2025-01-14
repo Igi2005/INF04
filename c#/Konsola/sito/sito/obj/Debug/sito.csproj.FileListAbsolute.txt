@@ -1,0 +1,7 @@
+C:\Users\walr\Desktop\inf04\2023-wiosna-sito-erastenesa\sito\sito\bin\Debug\sito.exe.config
+C:\Users\walr\Desktop\inf04\2023-wiosna-sito-erastenesa\sito\sito\bin\Debug\sito.exe
+C:\Users\walr\Desktop\inf04\2023-wiosna-sito-erastenesa\sito\sito\bin\Debug\sito.pdb
+C:\Users\walr\Desktop\inf04\2023-wiosna-sito-erastenesa\sito\sito\obj\Debug\sito.csproj.AssemblyReference.cache
+C:\Users\walr\Desktop\inf04\2023-wiosna-sito-erastenesa\sito\sito\obj\Debug\sito.csproj.CoreCompileInputs.cache
+C:\Users\walr\Desktop\inf04\2023-wiosna-sito-erastenesa\sito\sito\obj\Debug\sito.exe
+C:\Users\walr\Desktop\inf04\2023-wiosna-sito-erastenesa\sito\sito\obj\Debug\sito.pdb
