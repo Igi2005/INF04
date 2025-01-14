@@ -1,0 +1,7 @@
+C:\Users\walr\Desktop\inf04\kostki c#\kostki\kostki\bin\Debug\kostki.exe.config
+C:\Users\walr\Desktop\inf04\kostki c#\kostki\kostki\bin\Debug\kostki.exe
+C:\Users\walr\Desktop\inf04\kostki c#\kostki\kostki\bin\Debug\kostki.pdb
+C:\Users\walr\Desktop\inf04\kostki c#\kostki\kostki\obj\Debug\kostki.csproj.AssemblyReference.cache
+C:\Users\walr\Desktop\inf04\kostki c#\kostki\kostki\obj\Debug\kostki.csproj.CoreCompileInputs.cache
+C:\Users\walr\Desktop\inf04\kostki c#\kostki\kostki\obj\Debug\kostki.exe
+C:\Users\walr\Desktop\inf04\kostki c#\kostki\kostki\obj\Debug\kostki.pdb
