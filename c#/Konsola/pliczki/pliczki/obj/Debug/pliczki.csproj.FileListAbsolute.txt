@@ -1,0 +1,7 @@
+C:\Users\walr\Desktop\c# all\pliki\pliczki\pliczki\bin\Debug\pliczki.exe.config
+C:\Users\walr\Desktop\c# all\pliki\pliczki\pliczki\bin\Debug\pliczki.exe
+C:\Users\walr\Desktop\c# all\pliki\pliczki\pliczki\bin\Debug\pliczki.pdb
+C:\Users\walr\Desktop\c# all\pliki\pliczki\pliczki\obj\Debug\pliczki.csproj.AssemblyReference.cache
+C:\Users\walr\Desktop\c# all\pliki\pliczki\pliczki\obj\Debug\pliczki.csproj.CoreCompileInputs.cache
+C:\Users\walr\Desktop\c# all\pliki\pliczki\pliczki\obj\Debug\pliczki.exe
+C:\Users\walr\Desktop\c# all\pliki\pliczki\pliczki\obj\Debug\pliczki.pdb
