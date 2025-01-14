@@ -1,0 +1,10 @@
+C:\Users\walr\Desktop\c# all\pliki\desktopowa\plyty\plyty\bin\Debug\plyty.exe.config
+C:\Users\walr\Desktop\c# all\pliki\desktopowa\plyty\plyty\bin\Debug\plyty.exe
+C:\Users\walr\Desktop\c# all\pliki\desktopowa\plyty\plyty\bin\Debug\plyty.pdb
+C:\Users\walr\Desktop\c# all\pliki\desktopowa\plyty\plyty\obj\Debug\plyty.csproj.AssemblyReference.cache
+C:\Users\walr\Desktop\c# all\pliki\desktopowa\plyty\plyty\obj\Debug\plyty.Form1.resources
+C:\Users\walr\Desktop\c# all\pliki\desktopowa\plyty\plyty\obj\Debug\plyty.Properties.Resources.resources
+C:\Users\walr\Desktop\c# all\pliki\desktopowa\plyty\plyty\obj\Debug\plyty.csproj.GenerateResource.cache
+C:\Users\walr\Desktop\c# all\pliki\desktopowa\plyty\plyty\obj\Debug\plyty.csproj.CoreCompileInputs.cache
+C:\Users\walr\Desktop\c# all\pliki\desktopowa\plyty\plyty\obj\Debug\plyty.exe
+C:\Users\walr\Desktop\c# all\pliki\desktopowa\plyty\plyty\obj\Debug\plyty.pdb
