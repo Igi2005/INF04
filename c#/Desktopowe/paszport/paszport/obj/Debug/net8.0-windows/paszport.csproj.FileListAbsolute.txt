@@ -1,0 +1,17 @@
+C:\Users\walr\Desktop\c# all\paszport_desktopowa\paszport\paszport\bin\Debug\net8.0-windows\paszport.exe
+C:\Users\walr\Desktop\c# all\paszport_desktopowa\paszport\paszport\bin\Debug\net8.0-windows\paszport.deps.json
+C:\Users\walr\Desktop\c# all\paszport_desktopowa\paszport\paszport\bin\Debug\net8.0-windows\paszport.runtimeconfig.json
+C:\Users\walr\Desktop\c# all\paszport_desktopowa\paszport\paszport\bin\Debug\net8.0-windows\paszport.dll
+C:\Users\walr\Desktop\c# all\paszport_desktopowa\paszport\paszport\bin\Debug\net8.0-windows\paszport.pdb
+C:\Users\walr\Desktop\c# all\paszport_desktopowa\paszport\paszport\obj\Debug\net8.0-windows\paszport.Form1.resources
+C:\Users\walr\Desktop\c# all\paszport_desktopowa\paszport\paszport\obj\Debug\net8.0-windows\paszport.Properties.Resources.resources
+C:\Users\walr\Desktop\c# all\paszport_desktopowa\paszport\paszport\obj\Debug\net8.0-windows\paszport.csproj.GenerateResource.cache
+C:\Users\walr\Desktop\c# all\paszport_desktopowa\paszport\paszport\obj\Debug\net8.0-windows\paszport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walr\Desktop\c# all\paszport_desktopowa\paszport\paszport\obj\Debug\net8.0-windows\paszport.AssemblyInfoInputs.cache
+C:\Users\walr\Desktop\c# all\paszport_desktopowa\paszport\paszport\obj\Debug\net8.0-windows\paszport.AssemblyInfo.cs
+C:\Users\walr\Desktop\c# all\paszport_desktopowa\paszport\paszport\obj\Debug\net8.0-windows\paszport.csproj.CoreCompileInputs.cache
+C:\Users\walr\Desktop\c# all\paszport_desktopowa\paszport\paszport\obj\Debug\net8.0-windows\paszport.dll
+C:\Users\walr\Desktop\c# all\paszport_desktopowa\paszport\paszport\obj\Debug\net8.0-windows\refint\paszport.dll
+C:\Users\walr\Desktop\c# all\paszport_desktopowa\paszport\paszport\obj\Debug\net8.0-windows\paszport.pdb
+C:\Users\walr\Desktop\c# all\paszport_desktopowa\paszport\paszport\obj\Debug\net8.0-windows\paszport.genruntimeconfig.cache
+C:\Users\walr\Desktop\c# all\paszport_desktopowa\paszport\paszport\obj\Debug\net8.0-windows\ref\paszport.dll

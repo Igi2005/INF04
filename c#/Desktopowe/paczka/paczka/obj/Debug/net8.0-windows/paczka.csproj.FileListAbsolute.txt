@@ -1,0 +1,17 @@
+C:\Users\walr\Desktop\c# all\paczka_desktopowa\paczka\paczka\bin\Debug\net8.0-windows\paczka.exe
+C:\Users\walr\Desktop\c# all\paczka_desktopowa\paczka\paczka\bin\Debug\net8.0-windows\paczka.deps.json
+C:\Users\walr\Desktop\c# all\paczka_desktopowa\paczka\paczka\bin\Debug\net8.0-windows\paczka.runtimeconfig.json
+C:\Users\walr\Desktop\c# all\paczka_desktopowa\paczka\paczka\bin\Debug\net8.0-windows\paczka.dll
+C:\Users\walr\Desktop\c# all\paczka_desktopowa\paczka\paczka\bin\Debug\net8.0-windows\paczka.pdb
+C:\Users\walr\Desktop\c# all\paczka_desktopowa\paczka\paczka\obj\Debug\net8.0-windows\paczka.Form1.resources
+C:\Users\walr\Desktop\c# all\paczka_desktopowa\paczka\paczka\obj\Debug\net8.0-windows\paczka.Properties.Resources.resources
+C:\Users\walr\Desktop\c# all\paczka_desktopowa\paczka\paczka\obj\Debug\net8.0-windows\paczka.csproj.GenerateResource.cache
+C:\Users\walr\Desktop\c# all\paczka_desktopowa\paczka\paczka\obj\Debug\net8.0-windows\paczka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walr\Desktop\c# all\paczka_desktopowa\paczka\paczka\obj\Debug\net8.0-windows\paczka.AssemblyInfoInputs.cache
+C:\Users\walr\Desktop\c# all\paczka_desktopowa\paczka\paczka\obj\Debug\net8.0-windows\paczka.AssemblyInfo.cs
+C:\Users\walr\Desktop\c# all\paczka_desktopowa\paczka\paczka\obj\Debug\net8.0-windows\paczka.csproj.CoreCompileInputs.cache
+C:\Users\walr\Desktop\c# all\paczka_desktopowa\paczka\paczka\obj\Debug\net8.0-windows\paczka.dll
+C:\Users\walr\Desktop\c# all\paczka_desktopowa\paczka\paczka\obj\Debug\net8.0-windows\refint\paczka.dll
+C:\Users\walr\Desktop\c# all\paczka_desktopowa\paczka\paczka\obj\Debug\net8.0-windows\paczka.pdb
+C:\Users\walr\Desktop\c# all\paczka_desktopowa\paczka\paczka\obj\Debug\net8.0-windows\paczka.genruntimeconfig.cache
+C:\Users\walr\Desktop\c# all\paczka_desktopowa\paczka\paczka\obj\Debug\net8.0-windows\ref\paczka.dll
