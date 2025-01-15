@@ -1,0 +1,7 @@
+C:\Users\walr\Desktop\c# all\filmy_konsola\filmy\filmy\bin\Debug\filmy.exe.config
+C:\Users\walr\Desktop\c# all\filmy_konsola\filmy\filmy\bin\Debug\filmy.exe
+C:\Users\walr\Desktop\c# all\filmy_konsola\filmy\filmy\bin\Debug\filmy.pdb
+C:\Users\walr\Desktop\c# all\filmy_konsola\filmy\filmy\obj\Debug\filmy.csproj.AssemblyReference.cache
+C:\Users\walr\Desktop\c# all\filmy_konsola\filmy\filmy\obj\Debug\filmy.csproj.CoreCompileInputs.cache
+C:\Users\walr\Desktop\c# all\filmy_konsola\filmy\filmy\obj\Debug\filmy.exe
+C:\Users\walr\Desktop\c# all\filmy_konsola\filmy\filmy\obj\Debug\filmy.pdb
