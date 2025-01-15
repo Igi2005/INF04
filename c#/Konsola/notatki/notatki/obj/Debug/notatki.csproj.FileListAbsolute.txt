@@ -1,7 +1,7 @@
-C:\Users\walr\Desktop\inf04\2023-Notatki\notatki\notatki\bin\Debug\notatki.exe.config
-C:\Users\walr\Desktop\inf04\2023-Notatki\notatki\notatki\bin\Debug\notatki.exe
-C:\Users\walr\Desktop\inf04\2023-Notatki\notatki\notatki\bin\Debug\notatki.pdb
-C:\Users\walr\Desktop\inf04\2023-Notatki\notatki\notatki\obj\Debug\notatki.csproj.AssemblyReference.cache
-C:\Users\walr\Desktop\inf04\2023-Notatki\notatki\notatki\obj\Debug\notatki.csproj.CoreCompileInputs.cache
-C:\Users\walr\Desktop\inf04\2023-Notatki\notatki\notatki\obj\Debug\notatki.exe
-C:\Users\walr\Desktop\inf04\2023-Notatki\notatki\notatki\obj\Debug\notatki.pdb
+C:\Users\walr\Desktop\c# all\notattki\notatki\notatki\bin\Debug\notatki.exe.config
+C:\Users\walr\Desktop\c# all\notattki\notatki\notatki\bin\Debug\notatki.exe
+C:\Users\walr\Desktop\c# all\notattki\notatki\notatki\bin\Debug\notatki.pdb
+C:\Users\walr\Desktop\c# all\notattki\notatki\notatki\obj\Debug\notatki.csproj.AssemblyReference.cache
+C:\Users\walr\Desktop\c# all\notattki\notatki\notatki\obj\Debug\notatki.csproj.CoreCompileInputs.cache
+C:\Users\walr\Desktop\c# all\notattki\notatki\notatki\obj\Debug\notatki.exe
+C:\Users\walr\Desktop\c# all\notattki\notatki\notatki\obj\Debug\notatki.pdb
